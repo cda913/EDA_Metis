@@ -12,4 +12,4 @@ I will use the MTA data set to find which stations have the highest flow at rush
 I will use SQL to pull the data from the MTA database; Pandas to clean the data; and Matplotlib to create graphs. The plan is to have two graphs. One graph will show the stations flow going **out** sorted by volume; one graph will show the flow going **in** sorted by volume. Graphs will not have all stations; the number of stations on the graphs will depend on what I find during analysis. 
 
 ### MVP
-MVP will be one week's worth of data, as that is the size of each file from MTA. 
+MVP will be the most visited locations overall, rather than broken out by time, over one week (the minimum file size from the MTA). 
