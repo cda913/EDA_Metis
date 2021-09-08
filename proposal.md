@@ -1,6 +1,6 @@
 # Proposal for MTA Subway Data
 
-Karrine and Dahlia at WTWY would like to use MTA subway data to "optimize the placement of our street teams". 
+Karrine and Dahlia at WomenTechWomenYes (WTWY) would like to use MTA subway data to "optimize the placement of our street teams". 
 
 ### Question.
 We need to find subways that are busy: more people means more chances to get someone to sign up. We want to find multiple locations: WTWY wants to cover the entire city. We want to take time into consideration: people exiting at 3 may be more likely to be tourists than residents. We want to look at entries vs. exits: people may be in more of a hurry and less likely to stop at one or the other.
