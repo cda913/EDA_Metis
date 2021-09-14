@@ -17,8 +17,7 @@ Below is the graph of the highest average **exits** in the evening.
 ### A couple of things to note:
 - Journal Square is a transportation hub and therefore the large difference may be accurate. 
 - The top 20 stations are not the same. This is likely due to the time range difference between the two graphs.
-- The y-range on the graphs is not the same. This may be due to the time range differences, but I will be investigating this
 
 ## Still to do
-As stated in things to note, I need to look at why there are so many more exits than entrances. In addition, I will be looking at the exits in the morning and the entries in the evening, which may get different results. Finally, I plan to extend the morning rush hour to include the 12 pm numbers from the MTA data.
+In addition, I will be looking at the exits in the morning and the entries in the evening, which may get different results. Finally, I plan to extend the morning rush hour to include the 12 pm numbers from the MTA data.
 
